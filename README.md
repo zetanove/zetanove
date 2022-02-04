@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Programmare con C# 10 book examples
 - 🔭 Sto lavorando agli esempi del libro Programmare con C# 10 guida completa (https://amzn.to/3rs944G) --> saranno a brevissimo nuovamente online!
 
-- 🌱 my Amazon Author Page: tps://amzn.to/3IUzFxg
+- 🌱 my Amazon Author Page: https://amzn.to/3IUzFxg
 - 📫 How to reach me: www.antoniopelleriti.it
 
 <!--
