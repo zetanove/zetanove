@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 I'm Antonio Pelleriti, aka Zetanove
+
+🔭 I’m currently working on Programmare con C# 10 book examples
+🔭 Sto lavorando agli esempi del libro Programmare con C# 10 guida completa, (https://amzn.to/3rs944G) saranno a brevissimo nuovamente online!
 
 <!--
 **zetanove/zetanove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
