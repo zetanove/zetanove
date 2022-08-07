@@ -1,8 +1,5 @@
 ### Hi there 👋 I'm Antonio Pelleriti, aka Zetanove
 
-- 🔭 I’m currently working on ASP.NET Core book examples
-- 🔭 Sto lavorando agli esempi del libro ASP.NET Core - Guida pratica --> saranno a breve online!
-
 - 🌱 my Amazon Author Page: https://amzn.to/3IUzFxg
 - 📫 How to reach me: www.antoniopelleriti.it
 
